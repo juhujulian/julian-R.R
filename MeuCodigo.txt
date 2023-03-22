@@ -1,1 +1,9 @@
-Testando o git para repositorio github + Julian -- Re -- Ri
+Testando o git para repositorio github + Julian -- Re -- Ri blablabla.....
+
+==========================================================================
+
+*para adicionar arquivos no cmd do git é bem simples, basta apenas digitar dentro das "" + extenção que deseja, como por exemplo: "MeuCodigo.txt" 
+
+* para facilitar mais e nao perder tempo e quando tiver mais arquivos para fazer o comit, basta apenas digitar o comando= git add .
+
+*para visulizar os arquivos se estão ou nao comitados dentro do repositorio, basta apenas digitar o comando= git status
